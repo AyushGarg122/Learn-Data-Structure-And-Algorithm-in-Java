@@ -1,6 +1,5 @@
-package RecursionAndBacktracking;
 import java.util.*;
-public class MazePaths {
+public class Main {
 
     public static ArrayList<String> mazePath_HVD(int sr, int sc, int er, int ec){
         if(sr==er && sc==ec){
