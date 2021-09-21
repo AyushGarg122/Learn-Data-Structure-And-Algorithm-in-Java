@@ -1,6 +1,5 @@
-package RecursionAndBacktracking;
 import java.util.*;
-public class Basics {
+public class Main {
 
     public static void printIncreasing(int a, int b){
         if(a>b){
